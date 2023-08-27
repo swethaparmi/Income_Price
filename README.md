@@ -1,1 +1,2 @@
-# Income_Price
+# Income_Price prediction ##
+steps to be follow 
